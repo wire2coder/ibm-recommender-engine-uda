@@ -1,0 +1,6 @@
+Nltk
+Pandas
+Progressbar
+Seaborn
+scikit-learn
+matplotlib
